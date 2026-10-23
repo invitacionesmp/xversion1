@@ -1,0 +1,25 @@
+IMÁGENES YA INCLUIDAS (las que enviaste, recortadas y optimizadas):
+  sello.png               sello de cera (la M se dibuja encima, centrada por código)
+  flor-violeta.png        flor violeta
+  azafran.png             flor de azafrán
+  enredadera.png          enredadera con flores y mariposas (se repite a los costados)
+  ramo-rosa.png           ramo de acuarela (corona de la portada y cierre de confirmación)
+  cumulo-mariposas.png    mariposas blancas con flores y brillos
+  mariposa-lila.png, mariposa-oscura.png, mariposa-chica-1/2/3.png   mariposas que aletean
+  mariposas-difusas.png   mariposas translúcidas que flotan
+  destello.png            luces que titilan
+
+TODAVÍA FALTAN (poné acá con estos nombres exactos):
+  FOTOS (indispensables):
+    foto-principal.jpg
+    galeria-1.jpg ... galeria-5.jpg
+  OPCIONALES:
+    chica-vestido.png       chica de espaldas con vestido lila (aparece al costado de "Recepción" y en la portada)
+    fondo-acuarela.jpg      textura lila de fondo
+    borde-dorado.png        enredadera dorada que se repite en vertical (34x140 px aprox.)
+    divisor-dorado.png      adorno dorado separador
+    sol-dorado.png          sol del encabezado
+    sobre.png               sobre cerrado
+    marco-confirmacion.png  marco dorado con flores (confirmación)
+
+Si falta alguna, la página muestra un dibujo de relleno (o nada, en el caso de la chica).

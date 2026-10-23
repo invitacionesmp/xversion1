@@ -1,0 +1,8 @@
+Invitación digital - estructura
+  index.html   estructura de la página
+  css/style.css  estilos
+  js/main.js     lógica, animaciones y CONFIG (nombre, fechas, lugares, links) al principio
+  img/           imágenes (ver img/LEEME.txt)
+  audio/         cancion.mp3
+
+Abrilo con doble clic en index.html, o servilo con:  python3 -m http.server
